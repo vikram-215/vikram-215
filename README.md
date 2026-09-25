@@ -27,28 +27,45 @@ Networks	Deep Learning	Flutter	DevOps
 
 Currently building my first serious projects.
 
-Project	Status
-🔐 Cybersecurity Toolkit	🟡 Planning
-🤖 AI × Security	🟡 Exploring
-🌐 Full-Stack Application	🟡 Planning
+Project	Status<br>
+🔐 Cybersecurity Toolkit &nbsp;&nbsp;&nbsp;  	🟡 Planning<br>
+🤖 AI × Security    &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;  	🟡 Exploring<br>
+🌐 Full-Stack Application	   &nbsp;&nbsp; 🟡 Planning<br>
 
 Real projects coming soon. 🚀
 
 📊 GitHub
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikram-215&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=FFFFFF"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-215&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=FFFFFF"/>
-
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikram-215&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-215&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D084&text_color=FFFFFF" />
+</div>
 <br><br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=vikram-215&theme=dark&hide_border=true&background=0D1117&ring=00D084&fire=00D084&currStreakLabel=00D084"/> </div><br>
 
-<img src="https://streak-stats.demolab.com?user=vikram-215&theme=dark&hide_border=true&background=0D1117&ring=00D084&fire=00D084&currStreakLabel=00D084"/> </div>
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
 </picture>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/vikram-215/vikram-215/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </div>
+</div>
+
+
+
 🤝 Connect
+
 <div align="center"> <a href="https://github.com/vikram-215"> <img src="https://img.shields.io/badge/GitHub-vikram--215-181717?style=for-the-badge&logo=github"/> </a>
 
 <br><br>
